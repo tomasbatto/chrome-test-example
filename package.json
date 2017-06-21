@@ -1,0 +1,14 @@
+{
+  "name": "browserexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-headless-chrome": "^2.5.2"
+  }
+}
